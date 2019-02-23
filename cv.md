@@ -1,7 +1,7 @@
- Natalya Apasova  
+ ##Natalya Apasova  
  
  +375(25)622-48-16 (Life)  
- natalya.gulak.apasova@yandex.by  
+ <natalya.gulak.apasova@yandex.by>
  ---
  ###SUMMARY  
  ---
@@ -21,18 +21,18 @@
  ---
  ###EXPERIENCE  
 ---
- Developed Web pages based on design specifications.
- Integrated new features into existing Web applications.
- Maintained templates and content management systems.
- Assisted in testing and deploying Web applications.
- Coordinated with Graphic Designers in developing animations and interactive content.
- Registered Websites in different search engines.
- Worked with business and technical teams to create UI specifications.
- Ensured that Website was in compliance with image and branding requirements.
- Updated new technology and content for existing Website.
- Monitored Website performance and recommended improvements.
- Evaluated functionality and accessibility of Web Pages.
- Recommended new features and styles to improve usability.  
+ *Developed Web pages based on design specifications.
+ *Integrated new features into existing Web applications.
+ *Maintained templates and content management systems.
+ *Assisted in testing and deploying Web applications.
+ *Coordinated with Graphic Designers in developing animations and interactive content.
+ *Registered Websites in different search engines.
+ *Worked with business and technical teams to create UI specifications.
+ *Ensured that Website was in compliance with image and branding requirements.
+ *Updated new technology and content for existing Website.
+ *Monitored Website performance and recommended improvements.
+ *Evaluated functionality and accessibility of Web Pages.
+ *Recommended new features and styles to improve usability.  
  ---
  ###EDUCATION  
  ---
