@@ -7,7 +7,7 @@
 
 ---------------
 
-My objective is to create and maintain optimally functional websites and applications as tools in achieving the company`s mission and vision. As a part of a competent web developing team, I intend to generate maximum traffic to these projects by showcasing high-quality SEO content, user- and mobile-friendly navigation, and promotion to as many social media platforms as possible. My years of experience enriched my understanding and skills in web development by working with projects across widely varied niches. One of my goals includes constantly improving my expertise in web development. This being said, I look forward to becoming a useful part of the company.  
+My objective is to create and maintain optimally functional websites and applications as tools in achieving the company`s mission and vision. As a part of a competent web developing team, I intend to generate maximum traffic to these project-blocks by showcasing high-quality SEO content, user- and mobile-friendly navigation, and promotion to as many social media platforms as possible. My years of experience enriched my understanding and skills in web development by working with project-blocks across widely varied niches. One of my goals includes constantly improving my expertise in web development. This being said, I look forward to becoming a useful part of the company.  
 
 ---------------
 
